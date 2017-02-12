@@ -5,3 +5,6 @@ I decided to move my pen to github and tinker with my portfolio in my local dev 
 I'm currently working on how to make my buttons remain central.
 
 I'm currently improving my portfolio section by section will have a play with the colours next. 
+
+Page is now hosted on github here https://ladeyemi.github.io/ with any changes I make
+
