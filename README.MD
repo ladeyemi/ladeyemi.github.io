@@ -1,4 +1,4 @@
-This was originally created and hosted at Codepen  http://codepen.io/ladeyemi/pen/BKzQKj. Still there if you want to have a look at the subtle differences. 
+This was originally created and hosted at Codepen  http://codepen.io/ladeyemi/pen/BKzQKj. Still there if you want to have a look at the subtle differences.
 
 I decided to move my pen to github and tinker with my portfolio in my local dev environment.
 
