@@ -1,5 +1,6 @@
-#profile-pic {
-  Float: right;
+.profile-pic {
+    display: flex;
+    justify-content: center;
 }
 
 body {
@@ -9,6 +10,7 @@ body {
 
 #para1 {
   font-size: 20px;
+  /*text-align: center;*/ /* TODO: find a better way to align this text, still not quite right */
 }
 
 .bg-1 {
