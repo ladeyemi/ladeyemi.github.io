@@ -1,6 +1,6 @@
-.profile-pic {
-    display: flex;
-    justify-content: center;
+#profile-pic {
+    float: right;
+
 }
 
 body {
