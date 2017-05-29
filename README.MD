@@ -1,4 +1,4 @@
-This was originally created and hosted at Codepen  http://codepen.io/ladeyemi/pen/BKzQKj. Still there if you want to have a look at the subtle differences.
+This was originally created and hosted at Codepen  https://codepen.io/ladeyemi/pen/rmEazg. Still there if you want to have a look at the subtle differences. My pinned tweet is a link to my old portfolio, used a redirect to take visitors to most recent version.
 
 I decided to move my pen to github and tinker with my portfolio in my local dev environment.
 
